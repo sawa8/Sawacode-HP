@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ja" data-theme="natural">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="format-detection" content="telephone=no">
+  <title>contact | Sawa IT Create Partner</title>
+  <meta name="description" content="Sawa IT Create Partner へのお問い合わせはこちらから。">
+  <meta name="robots" content="noindex, nofollow">
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@300;400;700&display=swap" rel="stylesheet">
+  <!-- Adobe Fonts -->
+  <link rel="stylesheet" href="https://use.typekit.net/bdr2aga.css">
+  <!-- CSS -->
+  <link rel="stylesheet" href="./css/styles.css">
+  <!-- Theme FOUC prevention -->
+  <script>(function(){var t=localStorage.getItem("sawaTheme");if(t)document.documentElement.setAttribute("data-theme",t);})();</script>
+  <!-- JavaScript -->
+  <script defer src="./js/script.js"></script>
+</head>
+
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header__inner">
+      <a href="index.html" class="header-logo__inner">
+        <img class="header-logo__img" src="./images/logo_sawaworks.svg" alt="ロゴ">
+        <span class="header-logo__text">Sawa <span class="name-it">IT</span> Create Partner</span>
+      </a>
+      <div class="c-hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <nav class="p-header__pc-nav">
+        <ul class="pc-nav__items">
+          <li><a href="index.html" class="pc-nav__item">home</a></li>
+          <li><a href="about.html" class="pc-nav__item">about</a></li>
+          <li><a href="works.html" class="pc-nav__item">works</a></li>
+          <li><a href="price.html" class="pc-nav__item">price</a></li>
+          <li><a href="contact.html" class="pc-nav__item">contact</a></li>
+        </ul>
+      </nav>
+      <nav class="p-header__sp-nav">
+        <ul class="sp-nav__items">
+          <li><a href="index.html" class="sp-nav__item">home</a></li>
+          <li><a href="about.html" class="sp-nav__item">about</a></li>
+          <li><a href="works.html" class="sp-nav__item">works</a></li>
+          <li><a href="price.html" class="sp-nav__item">price</a></li>
+          <li><a href="contact.html" class="sp-nav__item">contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <div class="drawer-overlay"></div>
+
+  <!-- Page Header -->
+  <div class="page-header">
+    <div class="hero__stars"></div>
+    <h1 class="page-header__title">contact</h1>
+    <p class="page-header__subtitle">お問い合わせ</p>
+  </div>
+
+  <!-- Contact Section -->
+  <section class="section">
+    <div class="inner">
+      <div class="contact__content fade-in">
+        <p class="contact__intro">
+          Webサイト制作に関するご相談・お見積りなど、<br>
+          お気軽にお問い合わせください。<br>
+          内容を確認の上、折り返しご連絡いたします。
+        </p>
+        <form class="contact-form" action="contact.php" method="post">
+          <div class="contact-form__group">
+            <label class="contact-form__label" for="name">
+              お名前<span class="required">（必須）</span>
+            </label>
+            <input class="contact-form__input" id="name" name="name" type="text" required placeholder="山田 太郎">
+          </div>
+          <div class="contact-form__group">
+            <label class="contact-form__label" for="email">
+              メールアドレス<span class="required">（必須）</span>
+            </label>
+            <input class="contact-form__input" id="email" name="email" type="email" required placeholder="example@email.com">
+          </div>
+          <div class="contact-form__group">
+            <label class="contact-form__label" for="tel">
+              電話番号
+            </label>
+            <input class="contact-form__input" id="tel" name="tel" type="tel" placeholder="090-1234-5678">
+          </div>
+          <div class="contact-form__group">
+            <label class="contact-form__label" for="message">
+              お問い合わせ内容<span class="required">（必須）</span>
+            </label>
+            <textarea class="contact-form__textarea" id="message" name="message" required placeholder="お問い合わせ内容をご記入ください"></textarea>
+          </div>
+          <button type="submit" class="contact-form__submit">送信</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer__inner">
+      <div class="footer__logo-inner">
+        <img class="footer__logo-img" src="./images/logo_sawaworks.svg" alt="ロゴ">
+        <span class="footer__logo">Sawa <span class="name-it">IT</span> Create Partner</span>
+      </div>
+      <nav class="footer__nav">
+        <ul class="footer__nav-items">
+          <li><a href="index.html" class="footer__nav-item">home</a></li>
+          <li><a href="about.html" class="footer__nav-item">about</a></li>
+          <li><a href="works.html" class="footer__nav-item">works</a></li>
+          <li><a href="price.html" class="footer__nav-item">price</a></li>
+          <li><a href="contact.html" class="footer__nav-item">contact</a></li>
+        </ul>
+      </nav>
+      <p class="footer__copyright">Copyright 2026 Sawa IT Create Partner</p>
+    </div>
+  </footer>
+
+  <!-- Page Top Button -->
+  <div class="pagetop">
+    <div class="pagetop__arrow"></div>
+  </div>
+
+</body>
+
+</html>

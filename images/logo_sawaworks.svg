@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="-30 -40 510 380" xml:space="preserve">
+<style type="text/css">
+  .st0{fill:none;stroke:#040000;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;}
+  .st1{fill:none;stroke:#040000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+  .st2{fill:#231815;}
+</style>
+<g>
+  <g>
+    <path class="st0" d="M175.6,190.3c-7.7,7.2-15.5,12.2-15.5,12.2s-7.4-6.4-13.6-14.4"/>
+    <path class="st0" d="M161,150.5c-18.4,0-5.8,12.7-0.1,12.7S179.5,150.5,161,150.5z"/>
+    <path class="st0" d="M98.2,123.2c-7.7,0-8.1,12.7-0.1,12.7C105.3,135.9,105.5,123.2,98.2,123.2z"/>
+    <path class="st0" d="M219.9,124.5c-8.4-0.2-8.5,13.5-0.1,13.7C228.5,138.4,228.6,124.7,219.9,124.5z"/>
+  </g>
+  <path class="st0" d="M107.4,24C19.2,5.4,6.3,158.4,6.5,176.3l0,0c0.7,3.9,55.1-35.6,61.5-66.4"/>
+  <path class="st0" d="M254.3,67.8c-20.4,65.3-9,127.9,54.1,153.3c22.8-67,11.2-128.2-40.1-179.6C201.9-24.9,74.6,5.9,68,110
+    c-6.6,103.8,112.8,122.5,193.6,77.9"/>
+  <path class="st0" d="M280,50.2c8-3,31.3-10.6,59.2-2.6c31.2,9,47.4,31.5,52.4,38.8c3.9,5.6,19.6,29.5,17.9,63.1
+    c-0.7,14.4-2,39.7-21.4,56c-18.9,16-48.3,17.6-75,5.6"/>
+  <path class="st0" d="M321,159.3c7.3-10,20.2-17.3,36.8-17.6"/>
+  <path class="st0" d="M93,188.1c-25.9,9.3-31.2,47.1,5.5,51.1c22.9,2.4,35.9-11.1,30.6-30.1"/>
+  <path class="st0" d="M410.2,111.2c33.2,2.6,33.2,19.8,33.2,19.8s-5.6,17.5-34,18.5"/>
+  <path class="st0" d="M204.4,212.4c-7.2,19.1,5.4,35.1,32.9,31.4c27.8-3.7,38-31.6,20-46.2"/>
+  <path class="st0" d="M274.5,72.9c-14.7,12.6-14.7,45.1,1.7,52.4"/>
+  <path class="st0" d="M290,82c-12,8.9-12,31.7,1.4,36.9"/>
+  <path class="st1" d="M49.6,61.4c-2.1,8.8,2.2,17.2,8.2,18.2"/>
+  <path class="st1" d="M62.3,48c-3.1,5-2.9,12.8,4.2,18.4"/>
+</g>
+<text transform="matrix(1 0 0 1 225 296)" class="st2" text-anchor="middle" style="font-family:'Zen Maru Gothic',sans-serif;font-size:22px;letter-spacing:3px;">Sawa Design Works</text>
+</svg>

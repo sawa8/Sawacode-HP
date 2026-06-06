@@ -1,0 +1,7 @@
+.DS_Store
+*.docx
+*.code-workspace
+input_text.txt
+about-article-*.md
+history/
+*.py

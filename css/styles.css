@@ -799,13 +799,20 @@ html.is-fixed {
 }
 
 .skill-card__badge {
-  margin-bottom: 1rem;
-  text-align: center;
+  height: 200px;
+  background: var(--color-gray);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 16px 16px 0 0;
+  margin: -2rem -2rem 1.5rem -2rem;
 }
 
 .skill-card__badge-img {
-  width: 120px;
-  height: auto;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .skill-card__title {

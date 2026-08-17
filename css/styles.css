@@ -797,6 +797,15 @@ html.is-fixed {
   margin-bottom: 1rem;
 }
 
+.skill-card__badge {
+  margin-bottom: 1rem;
+}
+
+.skill-card__badge-img {
+  width: 120px;
+  height: auto;
+}
+
 .skill-card__title {
   font-size: 1.1rem;
   font-weight: 700;

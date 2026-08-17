@@ -799,6 +799,7 @@ html.is-fixed {
 
 .skill-card__badge {
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 .skill-card__badge-img {

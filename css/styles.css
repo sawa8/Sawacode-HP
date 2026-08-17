@@ -932,6 +932,56 @@ html.is-fixed {
   color: var(--color-gray-dark);
 }
 
+/* Works Category Heading */
+.works__category {
+  font-family: var(--font-script);
+  font-size: 1.6rem;
+  font-weight: 400;
+  text-align: center;
+  color: var(--color-accent);
+  margin-bottom: 2rem;
+  letter-spacing: 0.05em;
+}
+
+/* Works More Button */
+.works__more {
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+.works__more-btn {
+  display: inline-block;
+  padding: 0.85rem 2.5rem;
+  background: var(--color-accent);
+  color: var(--color-white);
+  font-weight: 700;
+  font-size: 0.95rem;
+  border-radius: 50px;
+  letter-spacing: 0.05em;
+  transition: background var(--transition), transform var(--transition);
+  text-decoration: none;
+}
+
+.works__more-btn:hover {
+  background: #b08050;
+  transform: translateY(-2px);
+  opacity: 1;
+}
+
+/* Screenshot-based Work Card Image */
+.work-card__image--screenshot {
+  background: var(--color-gray);
+}
+
+.work-card__screenshot-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 /* ========================================
    Price Section
 ======================================== */
